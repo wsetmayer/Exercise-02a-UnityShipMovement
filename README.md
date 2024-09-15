@@ -1,5 +1,16 @@
-# Exercise02a-UnityShipMovement
+# Exercise-02a-Ship
 
-# Walker Setmayer
+Exercise for MSCH-C220
 
-# wsetmayer
+A user-controlled ship for a space-shooter game. Created in Unity.
+
+## Implementation
+
+## References
+None
+
+## Future Development
+None
+
+## Created by
+Walker Setmayer
